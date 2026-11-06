@@ -1,0 +1,96 @@
+{
+  "name": "Alejandro de la Mora",
+  "title": "Forward Deployed Engineer",
+  "subtitle": "AI solutions architecture · Workflow automation · Technology adoption",
+  "summary": "AI solutions architect and hands-on builder with 15+ years across software delivery, enterprise platforms, QA, and automation. I work with clients to translate ambiguous business needs into deployed AI systems, connect technology to everyday workflows, and support adoption. My experience combines enterprise AI delivery, measurable operational impact, and Salesforce marketing automation.",
+  "contact": {
+    "email": "alex@seshwithfriends.org",
+    "phone": "+1 437 243 3693",
+    "linkedin": "https://www.linkedin.com/in/amorac/",
+    "github": "https://github.com/Oruga420",
+    "website": "https://eloruga.com"
+  },
+  "outcomes": [
+    { "value": "$1.7M+", "label": "Operational savings", "context": "Assent · AI workflow automation" },
+    { "value": "47% → 97%", "label": "Internal AI adoption", "context": "Assent · Embedded in daily operations" },
+    { "value": "30+", "label": "Clients served", "context": "Sesh · Across multiple industries" }
+  ],
+  "skillGroups": [
+    { "title": "Client delivery & enablement", "items": ["Business requirements translation", "Stakeholder alignment", "Production deployment", "Hands-on AI workshops", "Agile / Scrum"] },
+    { "title": "AI systems & automation", "items": ["LLM APIs: OpenAI, Anthropic, Gemini", "RAG pipelines", "Agentic workflows", "Custom MCP tools", "Governance controls"] },
+    { "title": "Enterprise & marketing platforms", "items": ["Salesforce", "Agentforce", "Marketing Cloud Account Engagement", "Lead scoring", "Email and engagement workflows"] },
+    { "title": "Engineering & cloud", "items": ["TypeScript / Node.js", "Next.js", "GCP", "AWS", "Vercel", "QA strategy and reliability testing"] }
+  ],
+  "experiences": [
+    {
+      "company": "Sesh | AI Solutions",
+      "role": "Founder / AI Solutions Architect",
+      "focus": "Forward deployed engineering",
+      "date": "Nov 2021 - Present",
+      "bullets": [
+        "Founded and led an AI consultancy delivering 120+ GenAI applications and 90+ AI chatbots for 30+ clients across multiple industries.",
+        "Translated ambiguous business requirements into working solutions as principal architect across client engagements; designed and deployed RAG pipelines, agentic workflows, and custom automation tools.",
+        "Built marketing websites and landing pages connected to automation backends for real-time interaction and conversion.",
+        "Delivered hands-on AI workshops and practical education for a 100+ member community, helping people use AI in their work."
+      ]
+    },
+    {
+      "company": "Assent",
+      "role": "AI Solutions Architect (Contract)",
+      "date": "Feb 2025 - Nov 2025",
+      "bullets": [
+        "Built and deployed agentic workflows and custom MCP tools that replaced manual processes and delivered $1.7M+ in operational savings.",
+        "Increased internal AI adoption from 47% to 97% by embedding secure, scalable GenAI implementations into daily operations.",
+        "Architected and deployed a multi-model AI stack using OpenAI, Anthropic, and Gemini, with live RAG integrations and governance controls."
+      ]
+    },
+    {
+      "company": "Online Business Systems",
+      "role": "Salesforce Consultant",
+      "date": "Jun 2024 - Nov 2024",
+      "bullets": [
+        "Implemented Agentforce and Marketing Cloud Account Engagement (MCAE) solutions for enterprise clients.",
+        "Designed AI assistants, lead scoring models, engagement programs, and automated email workflows for sales and marketing teams."
+      ]
+    },
+    {
+      "company": "Globalization Partners",
+      "role": "Salesforce Manager",
+      "date": "Nov 2018 - Nov 2023",
+      "bullets": [
+        "Managed and scaled a Salesforce organization with 1,000+ licenses across sales, marketing, and operations.",
+        "Built the company's first internal GenAI chatbot, GIA, introducing AI-assisted development and automation workflows.",
+        "Connected business stakeholders and engineering teams to deliver scalable, compliant solutions."
+      ]
+    },
+    {
+      "company": "Praxis",
+      "role": "Project Manager (Software Factory)",
+      "date": "2012",
+      "bullets": ["Managed software delivery projects for Scotiabank under Time & Materials models; owned resource allocation, timelines, and budget control across development, QA, and stakeholders."]
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "role": "QA Manager / Scrum Master",
+      "date": "2009 - 2010",
+      "bullets": ["Led a 7-person QA team for Banco Cencosud in Peru, owning sprint planning, delivery coordination, and QA strategy for banking systems."]
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "role": "Senior QA Engineer",
+      "date": "2008 - 2009",
+      "bullets": ["Validated accuracy, reliability, and edge-case handling for automated check reading and processing systems at Banco IXE in Mexico."]
+    }
+  ],
+  "project": {
+    "name": "Luna · AI assistant for Slack",
+    "url": "https://github.com/Oruga420/office-agent",
+    "description": "A TypeScript assistant that routes requests between NVIDIA Nemotron and Anthropic Claude. Supports mentions, direct messages, slash commands, and conversation context, with per-user rate limits and input validation.",
+    "stack": "TypeScript · Node.js · Slack Bolt · Zod · Vitest · GCP / Terraform"
+  },
+  "education": {
+    "program": "Ingenieria en Sistemas",
+    "institution": "Universidad Marista de Merida, Mexico",
+    "date": "2004 - 2007"
+  }
+}
