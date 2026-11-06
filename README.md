@@ -20,7 +20,7 @@ npm run build
 
 Next.js exports a static site to `out/`. Vercel builds from the `main` branch. No environment variables, server functions, analytics, or external runtime APIs are required. Fonts are downloaded at build time and served locally.
 
-The **Print / Save PDF** button opens the browser print dialog. Choose **Save as PDF**, A4, 100% scale, with browser headers and footers disabled. The print stylesheet uses a compact two-page layout with selectable text and clickable links.
+**Download PDF** saves a ready-to-send, two-page resume. **Print** opens the browser print dialog. Choose A4, 100% scale, with browser headers and footers disabled. The print stylesheet uses a compact two-page layout with selectable text and clickable links. When updating content, regenerate `public/Alejandro-de-la-Mora-FDE.pdf` from the built page before publishing.
 
 ## Content
 

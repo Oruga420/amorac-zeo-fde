@@ -6,3 +6,4 @@ out/
 *.log
 qa/
 *.pdf
+!public/*.pdf

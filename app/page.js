@@ -30,7 +30,7 @@ export default function Home() {
       <main className="page">
         <div className="toolbar">
           <a className="wordmark" href="#top" aria-label="Alejandro de la Mora, top of resume">AM<span className="wordmark-dot">.</span></a>
-          <div className="toolbar-actions"><a className="text-link" href={`mailto:${resume.contact.email}`}>Get in touch <Arrow /></a><PrintButton /></div>
+          <div className="toolbar-actions"><PrintButton /><a className="print-button download-button" href="/Alejandro-de-la-Mora-FDE.pdf" download>Download PDF <span aria-hidden="true">↓</span></a></div>
         </div>
         <article className="resume" id="top" aria-label="Alejandro de la Mora resume">
           <header className="header">
